@@ -2,7 +2,7 @@
 Rudimentary auto-translation for the Archivist Alphabet. If you don't know what that means, you need to play The Messenger and join their Discord server.
 
 # Prerequisites
-Python 3.X: https://www.python.org/downloads/
+Python 3.6 or newer: https://www.python.org/downloads/
 
 Tesseract-OCR: https://github.com/tesseract-ocr/tesseract (platform-dependent, follow normal installation instructions.)
 
